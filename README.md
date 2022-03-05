@@ -8,6 +8,6 @@
 - Salazar Garcia Daniel.
 
 ## Practicas:
-[P02](https://dsg-ipn.github.io/ControlNeurodifuso-2022/P02/CN_P02.html)
+[Practica CN_P03](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Practicas/CN_P03.html)
 
 ## Reportes:
