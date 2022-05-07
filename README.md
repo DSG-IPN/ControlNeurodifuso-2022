@@ -20,3 +20,5 @@
 [PR04 E 4.8](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E4_8.html) 
 
 [PR06 E 6.8](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E68.html) 
+
+[PR06 E 6.17](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E617.html) 
