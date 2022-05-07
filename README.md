@@ -18,4 +18,4 @@
 
 ## Problemas:
 PR04:
-[PR04_E48] (https://github.com/DSG-IPN/ControlNeurodifuso-2022/blob/f3cfc49ff3efbb02ff9ac1ad1f669cd3c179f830/Problemas/E4_8.html)
+[PR04_E48] (https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E4_8.html.html)
