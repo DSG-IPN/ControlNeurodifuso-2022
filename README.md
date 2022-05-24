@@ -18,6 +18,8 @@
 
 [Reporte CN_RP7 Problema 2](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Reportes/R07_E2.html)
 
+[Reporte CN_R08 ix.](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Reportes/R08_ix.html)
+
 ## Problemas:
 [PR04 E 4.5](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E4_5.html) 
 
