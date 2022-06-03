@@ -35,7 +35,7 @@
 
 [PR09 E 10.13](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E1013_PR09.html)
 
-[PR09 E 10.13](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E9_2.html)
+[PR08 E 9.2](https://dsg-ipn.github.io/ControlNeurodifuso-2022/Problemas/E9_2.html)
 
 
 
